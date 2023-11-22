@@ -32,4 +32,4 @@ async def heh(ctx, count_heh = 5):
         else: 
             await ctx.send('You forgot to attach a file')
 
-bot.run("your code") 
+bot.run("your token") 
